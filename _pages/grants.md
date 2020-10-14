@@ -38,6 +38,11 @@ Funder: NIEHS (R01 supplement) <br/>
 PI: Dr. Howard Chang <br/>
 Status: Pending <br/></p>
 
+<p>Evaluation of common air pollutant exposure on metabolic health: A multi-centric cross-sectional study <br/>
+Funder: NIH (R01) <br/>
+PI: Dr. Dana Boyd Barr <br/>
+Status: Pending<br/></p>
+
 <p>Air Pollution Exposure and Cardiometabolic Risk Factors <br/>
 Funder: Mount Sinai Transdisciplinary Center (P30) <br/>
 PI: Dr. Maayan Yitshak Sade <br/>
