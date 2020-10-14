@@ -2,7 +2,7 @@
   image: highlight1.JPG
   description: "This is the first nationwide population-based cohort study on air pollution and neurodegeneration. 
   We demonstrated that long-term PM2.5 exposures were significantly associated with an increased risk of first hospitalization with Parkinson’s disease, 
-  and Alzheimer’s disease and related dementias. To accommodate massive datasets, we developed novel Cox-equivalent Poisson models utilizing parallel computing to 
+  and Alzheimer’s disease and related dementias. To accommodate massive datasets, we developed novel Cox-equivalent Poisson models to 
   perform a computationally scalable survival analysis."
   authors: "Liuhua Shi*, Xiao Wu*, Mahdieh Danesh Yazdi, Danielle Braun, Yara Abu Awad, Yaguang Wei, Pengfei Liu, Qian Di, Yun Wang, Joel Schwartz, Francesca Dominici, 
   Marianthi-Anna Kioumourtzoglou, Antonella Zanobetti"
