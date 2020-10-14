@@ -6,7 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-### Full List   
+* contributed equally 
 <p></p>
 
 <div class="col-sm-12 clearfix">
