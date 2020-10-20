@@ -8,7 +8,7 @@ permalink: /research/
 <p><br/></p>
 My research focuses on employing massive datasets, including satellite-retrieved high resolution exposures and health data of all Medicare beneficiaries, to investigate how climate change and air pollution influence seniors' health. More specifically, my research is focused on: <br/>
 <p></p>
-(1) application of remote sensing in environmental exposure modeling (e.g., predicting high-resolution PM2.5 and components, ozone, NO2, and temperature); <br/>
+(1) application of remote sensing in environmental exposure modeling (e.g., predicting high-resolution PM2.5, ozone, NO2, and temperature); <br/>
 (2) estimating the health consequences of exposure to air pollution and climate change; <br/>
 (3) estimating the link between climate change and air quality, and the mediated health impacts; <br/>
 (4) estimating the joint and independent health effects of air pollutant mixtures; <br/>
