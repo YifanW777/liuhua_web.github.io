@@ -63,6 +63,8 @@ Member, Climate@Emory<br/>
 
 #### SELECTED MEDIA COVERAGE:
 
+[https://www.eurekalert.org/pub_releases/2020-10/htcs-slf101620.php](https://www.eurekalert.org/pub_releases/2020-10/htcs-slf101620.php)
+
 [https://ehp.niehs.nih.gov/curated-collections/2018-JIF](https://ehp.niehs.nih.gov/curated-collections/2018-JIF) (EHP's 2018 Journal Impact Factor Collection)
 
 [https://www.hsph.harvard.edu/news/press-releases/air-pollution-below-epa-standards-linked-with-higher-death-rates/](https://www.hsph.harvard.edu/news/press-releases/air-pollution-below-epa-standards-linked-with-higher-death-rates/)
