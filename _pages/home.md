@@ -7,8 +7,9 @@ permalink: /
 ---
 
 ## **Welcome to the Environment and Seniors’ Health Research Group @ Emory.**
- 
+<p style="text-align:justify; text-justify:inter-ideograph;">
  The principal investigator Dr. Liuhua Shi’s research focuses on the effects of ambient air pollution, extreme weather, green space, and environmental noise on the development and progression of chronic diseases among the older adults, such as Alzheimer’s disease and related dementias, cardiovascular diseases, and respiratory diseases. Our goal is to leverage massive nationwide datasets, including satellite-retrieved high-resolution environmental exposure data and individual-level longitudinal health records, to better understand the influence of environmental risk factors on older adults’ health and better frame environmental policy. 
+</p>
 <p> <br /> </p>
 
 
@@ -42,8 +43,9 @@ permalink: /
   </a>
 </div>
 <p> <br /> </p>
+<p style="text-align:justify; text-justify:inter-ideograph;">
 To this end, our research combines remote sensing, machine learning, epidemiology, and statistical techniques. Our group is hosting and managing the nationwide Medicare datasets (the largest elderly cohort available to date) in the [Rollins School of Public Health](https://www.sph.emory.edu) at [Emory University](http://www.emory.edu).
-
+</p>
 <p> <br /> </p>
 
 
