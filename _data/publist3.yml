@@ -1,4 +1,48 @@
-﻿- title: "Assessing NO2 Concentration with High Spatiotemporal Resolution across the Contiguous United States Using Ensemble Model Averaging"
+﻿- title: "Low-concentration PM2.5 and mortality: estimating acute and chronic effects in a population-based study"
+  image: dummy.png
+  description: ""
+  authors: 	<b>Shi, L.</b>; Zanobetti, A.; Kloog, I.; Coull, B.; Koutrakis, P.; Melly, S.; Schwartz, J.
+  link:
+    url: https://doi.org/10.1289/ehp.1409111
+    display: Environmental Health Perspectives 2016, 124, 46-52
+  highlight: 0
+  news2:
+  first_or_cor: 0
+
+- title: "Impacts of temperature and its variability on mortality in New England"
+  image: dummy.png
+  description: ""
+  authors: <b>Shi, L.</b>; Kloog, I.; Zanobetti, A.; Liu, P.; Schwartz, J.
+  link:
+    url: http://admin.indiaenvironmentportal.org.in/files/file/temperature%20and%20its%20variability.pdf
+    display:  Nature Climate Change 2015, 5, 988-991
+  highlight: 0
+  news2:
+  first_or_cor: 0
+  
+- title: "Chronic effects of temperature on mortality in the Southeastern USA using satellite-based exposure metrics"
+  image: dummy.png
+  description: ""
+  authors: 	<b>Shi, L.</b>; Liu, P.; Wang, Y.; Zanobetti, A.; Kosheleva, A.; Koutrakis, P.; Schwartz, J.
+  link:
+    url: https://doi.org/10.1038/srep30161
+    display: Scientific Reports 2016, 6, 30161
+  highlight: 0
+  news2:
+  first_or_cor: 0
+
+- title: "Estimating daily air temperature across the Southeastern United States using high-resolution satellite data: a statistical modeling study"
+  image: dummy.png
+  description: ""
+  authors: 	<b>Shi, L.</b>; Liu, P.; Kloog, I.; Lee, M.; Kosheleva, A.; Schwartz, J.
+  link:
+    url: https://doi.org/10.1016/j.envres.2015.12.006
+    display: Environmental Research 2016, 146, 51-58
+  highlight: 0
+  news2:
+  first_or_cor: 0
+  
+- title: "Assessing NO2 Concentration with High Spatiotemporal Resolution across the Contiguous United States Using Ensemble Model Averaging"
   image: dummy.png
   description: ""
   authors: Di, Q.; Amini, H.; <b>Shi, L.</b>; Kelly, J.; Mickley, L.; Amini, H.; Kloog, I Silvern, R.; Sabath, B.; Choirat, C.; Koutrakis, P.; Lyapustin, A.; Wang, Y.; Schwartz, J
@@ -163,46 +207,4 @@
   news2:
   first_or_cor: 0
 
-- title: "Chronic effects of temperature on mortality in the Southeastern USA using satellite-based exposure metrics"
-  image: dummy.png
-  description: ""
-  authors: 	<b>Shi, L.</b>; Liu, P.; Wang, Y.; Zanobetti, A.; Kosheleva, A.; Koutrakis, P.; Schwartz, J.
-  link:
-    url: https://doi.org/10.1038/srep30161
-    display: Scientific Reports 2016, 6, 30161
-  highlight: 0
-  news2:
-  first_or_cor: 0
 
-- title: "Estimating daily air temperature across the Southeastern United States using high-resolution satellite data: a statistical modeling study"
-  image: dummy.png
-  description: ""
-  authors: 	<b>Shi, L.</b>; Liu, P.; Kloog, I.; Lee, M.; Kosheleva, A.; Schwartz, J.
-  link:
-    url: https://doi.org/10.1016/j.envres.2015.12.006
-    display: Environmental Research 2016, 146, 51-58
-  highlight: 0
-  news2:
-  first_or_cor: 0
-
-- title: "Low-concentration PM2.5 and mortality: estimating acute and chronic effects in a population-based study"
-  image: dummy.png
-  description: ""
-  authors: 	<b>Shi, L.</b>; Zanobetti, A.; Kloog, I.; Coull, B.; Koutrakis, P.; Melly, S.; Schwartz, J.
-  link:
-    url: https://doi.org/10.1289/ehp.1409111
-    display: Environmental Health Perspectives 2016, 124, 46-52
-  highlight: 0
-  news2:
-  first_or_cor: 0
-
-- title: "Impacts of temperature and its variability on mortality in New England"
-  image: dummy.png
-  description: ""
-  authors: <b>Shi, L.</b>; Kloog, I.; Zanobetti, A.; Liu, P.; Schwartz, J.
-  link:
-    url: http://admin.indiaenvironmentportal.org.in/files/file/temperature%20and%20its%20variability.pdf
-    display:  Nature Climate Change 2015, 5, 988-991
-  highlight: 0
-  news2:
-  first_or_cor: 0
