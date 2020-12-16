@@ -36,7 +36,7 @@ Status: Pending <br/></p>
 <p>Using Earth Observations to Support National and Global Environmental Health Research and Surveillance <br/>
 Funder: NASA <br/>
 PI: Dr. Yang Liu <br/>
-Status: Get funded <br/></p>
+Status: Was selected for funding <br/></p>
 
 <p>Data Integration Methods for Environmental Exposures with Applications to Air Pollution and Asthma Morbidity <br/>
 Funder: NIEHS (R01 supplement) <br/>
