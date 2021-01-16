@@ -49,7 +49,20 @@
   education4:
   education5:
   statement:
-
+  
+- name: "Tszshan Ma"
+  photo: Tszshan_Ma.png
+  group_member: 1
+  info: Doctoral Student
+  email: tsz.shan.ma@emory.edu
+  number_educ: 1
+  education1: 2020-, Environmental Health
+  education2: 
+  education3: 
+  education4:
+  education5:
+  statement:
+  
 - name: "Shiwen Huang"
   photo: Shiwen_Huang.png
   group_member: 1
@@ -81,19 +94,6 @@
   group_member: 1
   info: Master Student
   email: mingrui.wang@emory.edu
-  number_educ: 1
-  education1: 2019-, Environmental Health
-  education2: 
-  education3: 
-  education4:
-  education5:
-  statement:
-
-- name: "Qiulun Li"
-  photo: Qiulun_Li.png
-  group_member: 1
-  info: Master Student
-  email: qiulun.li@emory.edu
   number_educ: 1
   education1: 2019-, Environmental Health
   education2: 
