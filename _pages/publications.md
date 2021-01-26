@@ -28,7 +28,7 @@ permalink: /publications/
 </div>
 <div class="col-sm-12 clearfix">
 ####  Peer-reviewed articles<br/>
-####  2020
+####  2020-present
 
 {% for publi in site.data.publist2 %}
 
