@@ -36,17 +36,22 @@ Status: Pending <br/></p>
 <p>Using Earth Observations to Support National and Global Environmental Health Research and Surveillance <br/>
 Funder: NASA <br/>
 PI: Dr. Yang Liu <br/>
-Status: Active (2/2021-) <br/></p>
+Status: Active (2/2021-1/2024) <br/></p>
 
-<p>Data Integration Methods for Environmental Exposures with Applications to Air Pollution and Asthma Morbidity <br/>
-Funder: NIEHS (R01 supplement) <br/>
-PI: Dr. Howard Chang <br/>
-Status: Pending <br/></p>
+<p>Elucidating environmental risk factors for early menopause among women with heightened genetic susceptibility <br/>
+Funder: NAM <br/>
+PI: Dr. Audrey Gaskins <br/>
+Status: Pending<br/></p>
 
 <p>Evaluation of common air pollutant exposure on metabolic health: A multi-centric cross-sectional study <br/>
 Funder: NIH (R01) <br/>
 PI: Dr. Dana Boyd Barr <br/>
 Status: Pending<br/></p>
+
+<p>Data Integration Methods for Environmental Exposures with Applications to Air Pollution and Asthma Morbidity <br/>
+Funder: NIEHS (R01 supplement) <br/>
+PI: Dr. Howard Chang <br/>
+Status: Pending <br/></p>
 
 <p>Air Pollution Exposure and Cardiometabolic Risk Factors <br/>
 Funder: Mount Sinai Transdisciplinary Center (P30) <br/>
