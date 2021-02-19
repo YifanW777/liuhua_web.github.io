@@ -9,6 +9,17 @@
   news2:
   first_or_cor: 0
   
+- title: "Estimation of ambient PM2.5 in Iraq and Kuwait from 2001 to 2018 using machine learning and remote sensing"
+  image: dummy.png
+  description: ""
+  authors: Jing Li, Eric Garshick, Jaime E. Hart, Longxiang Li, <b>Liuhua Shi</b>, Ali Al-Hemoud, Shaodan Huang, Petros Koutrakis
+  link:
+    url: https://authors.elsevier.com/sd/article/S0160-4120(21)00070-2
+    display: Environment International, 2021
+  highlight: 0
+  news2:
+  first_or_cor: 0
+  
 - title: "The 2020 Report of The Lancet Countdown on Health and Climate Change"
   image: dummy.png
   description: ""
