@@ -53,8 +53,21 @@
 - name: "Tszshan Ma"
   photo: Tszshan_Ma.png
   group_member: 1
-  info: Doctoral Student
+  info: Doctoral Student (rotation)
   email: tsz.shan.ma@emory.edu
+  number_educ: 1
+  education1: 2020-, Environmental Health
+  education2: 
+  education3: 
+  education4:
+  education5:
+  statement:
+  
+- name: "Wenhao Wang"
+  photo: Wenhao_Wang.png
+  group_member: 1
+  info: Doctoral Student (rotation)
+  email: wenhao.wang@emory.edu
   number_educ: 1
   education1: 2020-, Environmental Health
   education2: 
@@ -115,6 +128,32 @@
   education5:
   statement:
 
+- name: "Siyao Xiao"
+  photo: Siyao_Xiao.jpg
+  group_member: 1
+  info: Master Student
+  email: siyao.xiao@emory.edu
+  number_educ: 1
+  education1: 2020-, Environmental Health
+  education2: 
+  education3: 
+  education4:
+  education5:
+  statement:
+  
+- name: "Sabrina Bogovic "
+  photo: 
+  group_member: 1
+  info: Master Student
+  email: sabrina.bogovic@emory.edu
+  number_educ: 1
+  education1: 2020-, Environmental Health
+  education2: 
+  education3: 
+  education4:
+  education5:
+  statement:
+  
 - name: "Kuo Zhang"
   photo: Kuo_Zhang.png
   group_member: 1
