@@ -4,19 +4,30 @@
   description: ""
   authors:  Yazdi, M.D.; Wang, Y.; Di, Q.; Wei, Y.; Requia, W.; <b>Shi, L.</b>; Sabbath, B.; Dominici, F.; Coull, B.; Koutrakis, P.; Evans, J.; Schwartz, J
   link:
-    url: ""
-    display: Circulation (In review)
+    url: https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.120.050252
+    display: Circulation 
   highlight: 0
   news2:
   first_or_cor: 0
-
-- title: "Stagnant human activity legacy affected vegetation recovery in a subtropical forest over the last 30 years"
-  image: dummg.png
+  
+- title: "Enhanced aerosol particle growth sustained by high continental chlorine emission in India"
+  image: dummy.png
   description: ""
-  authors: Lou, H; Scovronick, N; Yang, S; Ren, X; <b>Shi, L.</b>; Fu, Y; Cai, M; Luo, Y
+  authors: Gunthe, S.; Liu, P.; Panda, U.; Raj, S.; Sharma, A.; Derbyshire, E.; Reyes-Villegas, E.; Allan, J.; Chen, Y.; Wang, X.; Song, S.; Pöhker, M.; <b>Shi, L.</b>; Wang, Y.; Kommula, S.; Ravikrishna, R.; McFiggans, G.; Mickley, L.; Martin, S.; Pöschl, U.; Coe, H.
   link:
-    url: 
-    display:  Environmental Research Letters (In review)
+    url: https://www.nature.com/articles/s41561-020-00677-x
+    display: Nature Geoscience, 2021
+  highlight: 0
+  news2:
+  first_or_cor: 0
+  
+- title: "Estimation of ambient PM2.5 in Iraq and Kuwait from 2001 to 2018 using machine learning and remote sensing"
+  image: dummy.png
+  description: ""
+  authors: Li, J.; Garshick, E.; Hart, J.; Li, L.; <b>Shi, L.</b>; Al-Hemoud, A.; Huang, S.; Koutrakis, P.
+  link:
+    url: https://authors.elsevier.com/sd/article/S0160-4120(21)00070-2
+    display: Environment International, 2021
   highlight: 0
   news2:
   first_or_cor: 0
@@ -26,8 +37,8 @@
   description: ""
   authors: Huang, S; Li, H; Wang, M; Qian, Y; Steenland, K; Caudle, W, Liu, Y; Sarnat, J; Papatheodorou, S; <b>Shi, L.</b>
   link:
-    url: 
-    display: Science of the Total Environment (Accepted)
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0048969721010354
+    display: Science of the Total Environment
   highlight: 0
   news2:
   first_or_cor: 0
