@@ -10,7 +10,8 @@ permalink: /publications/
 <p></p>
 
 <div class="col-sm-12 clearfix">
-#### In review
+####  Peer-reviewed articles<br/>
+#### 2021
 
 {% for publi in site.data.publist1 %}
 
@@ -27,8 +28,7 @@ permalink: /publications/
 {% endfor %}
 </div>
 <div class="col-sm-12 clearfix">
-####  Peer-reviewed articles<br/>
-####  2020-present
+####  2020
 
 {% for publi in site.data.publist2 %}
 
