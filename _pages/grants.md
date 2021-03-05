@@ -28,7 +28,7 @@ Status: Received a score of top 2% (04/2021-03/2023) <br/></p>
 
 <p>Air Pollution and Alzheimer’s Disease and Related Dementias: A National Study <br/>
 Funder: NIA (R01) <br/>
-Status: Received a good score <br/></p>
+Status: Received a good score (07/2021-06/2026) <br/></p>
 
 <p><br/></p>
 <b>Co-investigator (Dr. Shi)</b> <br/>
