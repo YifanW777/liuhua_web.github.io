@@ -24,7 +24,7 @@ Status: Active (5/2020-4/2021) <br/></p>
 
 <p>Climate Penalty: Climate-driven Increases in Ozone and PM2.5 Levels and Mortality <br/>
 Funder: NIEHS (R21) <br/>
-Status: Received a score of top 2% (04/2021-03/2023) <br/></p>
+Status: Active (04/2021-03/2023) <br/></p>
 
 <p>Air Pollution and Alzheimer’s Disease and Related Dementias: A National Study <br/>
 Funder: NIA (R01) <br/>
