@@ -26,7 +26,7 @@ Status: Active (5/2020-4/2021) <br/></p>
 Funder: NIEHS (R21) <br/>
 Status: Active (04/2021-03/2023) <br/></p>
 
-<p>Air Pollution and Alzheimer’s Disease and Related Dementias: A National Study <br/>
+<p>PM2.5 components and Alzheimer’s Disease and Related Dementias: A National Study <br/>
 Funder: NIA (R01) <br/>
 Status: Received a good score (07/2021-06/2026) <br/></p>
 
