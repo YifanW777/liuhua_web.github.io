@@ -16,11 +16,11 @@ permalink: /grants/
 
 <p>A Big Data Approach to PM2.5 and Its Components and Alzheimer’s Disease <br/>
 Funder: The HERCULES Exposome Research Center <br/>
-Status: Active (4/2020-3/2021) <br/></p>
+Status: Active (4/2020-7/2021) <br/></p>
 
 <p>PM2.5 Components, Sources, and Alzheimer’s Disease and related dementias <br/>
 Funder: Emory Alzheimer’s Disease Research Center (P50) <br/>
-Status: Active (5/2020-4/2021) <br/></p>
+Status: Active (5/2020-8/2021) <br/></p>
 
 <p>Climate Penalty: Climate-driven Increases in Ozone and PM2.5 Levels and Mortality <br/>
 Funder: NIEHS (R21) <br/>
