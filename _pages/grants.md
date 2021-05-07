@@ -24,11 +24,11 @@ Status: Active (5/2020-8/2021) <br/></p>
 
 <p>Climate Penalty: Climate-driven Increases in Ozone and PM2.5 Levels and Mortality <br/>
 Funder: NIEHS (R21) <br/>
-Status: Active (04/2021-03/2023) <br/></p>
+Status: Active (4/2021-3/2023) <br/></p>
 
 <p>PM2.5 components and Alzheimer’s Disease and Related Dementias: A National Study <br/>
 Funder: NIA (R01) <br/>
-Status: Received a good score (07/2021-06/2026) <br/></p>
+Status: Received a good score (7/2021-6/2026) <br/></p>
 
 <p><br/></p>
 <b>Co-investigator (Dr. Shi)</b> <br/>
