@@ -49,7 +49,7 @@ PI: Dr. Yang Liu <br/>
 Status: Active (present-8/2026) <br/></p>
 
 <p>HERCULES: Health and Exposome Research Center at Emory <br/>
-Funder: NASA <br/>
+Funder: NIEHS (P30) <br/>
 PI: Dr. Carmen Marsit <br/>
 Status: Active (present-03/2022) <br/></p>
 
