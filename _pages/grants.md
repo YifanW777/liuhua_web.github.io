@@ -38,6 +38,16 @@ Funder: NASA <br/>
 PI: Dr. Yang Liu <br/>
 Status: Active (present-1/2024) <br/></p>
 
+<p>Using Earth Observations to Support Regional and National Environmental Health Surveillance <br/>
+Funder: NASA <br/>
+PI: Dr. Yang Liu <br/>
+Status: Active (present-8/2021) <br/></p>
+
+<p>Multi-Angle Imager for Aerosols (MAIA) instrument <br/>
+Funder: NASA <br/>
+PI: Dr. Yang Liu <br/>
+Status: Active (present-8/2026) <br/></p>
+
 <p>HERCULES: Health and Exposome Research Center at Emory <br/>
 Funder: NASA <br/>
 PI: Dr. Carmen Marsit <br/>
@@ -48,6 +58,11 @@ Funder: NIEHS (R01) <br/>
 PI: Dr. Howard Chang <br/>
 Status: Active (present-01/2022) <br/></p>
 
+<p>Supplement: Data Integration Methods for Environmental Exposures with Applications to Air Pollution <br/>
+Funder: NIEHS (R01 supplement) <br/>
+PI: Dr. Howard Chang <br/>
+Status: Pending <br/></p>
+
 <p>Elucidating environmental risk factors for early menopause among women with heightened genetic susceptibility <br/>
 Funder: NAM <br/>
 PI: Dr. Audrey Gaskins <br/>
@@ -57,11 +72,6 @@ Status: Pending<br/></p>
 Funder: NIH (R01) <br/>
 PI: Dr. Dana Boyd Barr <br/>
 Status: Pending<br/></p>
-
-<p>Supplement: Data Integration Methods for Environmental Exposures with Applications to Air Pollution <br/>
-Funder: NIEHS (R01 supplement) <br/>
-PI: Dr. Howard Chang <br/>
-Status: Pending <br/></p>
 
 <p>Heat, Humidity, and mortality:  the role of adaptation and spatial vulnerability <br/>
 Funder: NIH (R01) <br/>
