@@ -36,7 +36,17 @@ Status: Received a good score (07/2021-06/2026) <br/></p>
 <p>Using Earth Observations to Support National and Global Environmental Health Research and Surveillance <br/>
 Funder: NASA <br/>
 PI: Dr. Yang Liu <br/>
-Status: Active (2/2021-1/2024) <br/></p>
+Status: Active (present-1/2024) <br/></p>
+
+<p>HERCULES: Health and Exposome Research Center at Emory <br/>
+Funder: NASA <br/>
+PI: Dr. Carmen Marsit <br/>
+Status: Active (present-03/2022) <br/></p>
+
+<p>Data Integration Methods for Environmental Exposures with Applications to Air Pollution and Asthma Morbidity <br/>
+Funder: NIEHS (R01) <br/>
+PI: Dr. Howard Chang <br/>
+Status: Active (present-01/2022) <br/></p>
 
 <p>Elucidating environmental risk factors for early menopause among women with heightened genetic susceptibility <br/>
 Funder: NAM <br/>
@@ -48,13 +58,13 @@ Funder: NIH (R01) <br/>
 PI: Dr. Dana Boyd Barr <br/>
 Status: Pending<br/></p>
 
-<p>Data Integration Methods for Environmental Exposures with Applications to Air Pollution and Asthma Morbidity <br/>
+<p>Supplement: Data Integration Methods for Environmental Exposures with Applications to Air Pollution <br/>
 Funder: NIEHS (R01 supplement) <br/>
 PI: Dr. Howard Chang <br/>
 Status: Pending <br/></p>
 
-<p>Air Pollution Exposure and Cardiometabolic Risk Factors <br/>
-Funder: Mount Sinai Transdisciplinary Center (P30) <br/>
+<p>Heat, Humidity, and mortality:  the role of adaptation and spatial vulnerability <br/>
+Funder: NIH (R01) <br/>
 PI: Dr. Maayan Yitshak Sade <br/>
 Status: Pending <br/></p>
 
