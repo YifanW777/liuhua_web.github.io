@@ -85,6 +85,6 @@ Status: Pending <br/></p>
 <p>The impact of wildfire smoke exposure on cardiovascular health in the western US <br/>
 Funder: NIH (R01) <br/>
 PI: Dr. Yang Liu <br/>  
-Status: Pending <br/>
+Status: Pending <br/></p>
 <p><br/></p>
 
