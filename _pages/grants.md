@@ -52,11 +52,6 @@ Funder: NASA <br/>
 PI: Dr. Yang Liu <br/>
 Status: Active (present-8/2026) <br/></p>
 
-<p>HERCULES: Health and Exposome Research Center at Emory <br/>
-Funder: NIEHS (P30) <br/>
-PI: Dr. Carmen Marsit <br/>
-Status: Active (present-3/2022) <br/></p>
-
 <p>Data Integration Methods for Environmental Exposures with Applications to Air Pollution and Asthma Morbidity <br/>
 Funder: NIEHS (R01) <br/>
 PI: Dr. Howard Chang <br/>
