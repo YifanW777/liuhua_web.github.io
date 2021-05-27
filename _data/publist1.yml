@@ -10,6 +10,17 @@
   news2:
   first_or_cor: 0
   
+- title: "Long-term air pollution exposure and incident dementia in American elderly population: a national cohort study (2000-2018)"
+  image: dummy.png
+  description: ""
+  authors:  <b>Shi, L.</b>; Steenland, K.; Li, H.; Liu, P.; Zhang, Y.; Lyles, R.; Requia, W.; Ilango, S.; Chang, H.; Wingo, T.; Weber, R.; Schwartz, J
+  link:
+    url: https://doi.org/10.21203/rs.3.rs-514522/v1
+    display: Preprint, 2021
+  highlight: 0
+  news2:
+  first_or_cor: 0
+  
 - title: "Long-term Effect of Air Pollution on Hospital Admissions Among Medicare Participants Using a Doubly Robust Additive Model"
   image: dummy.png
   description: ""
@@ -54,4 +65,14 @@
   news2:
   first_or_cor: 0
   
+- title: "Benchmark dose analysis for PAHs hydroxyl metabolites in urine based on mitochondrial damage of peripheral blood leucocytes in coke oven workers in China"
+  image: dummg.png
+  description: ""
+  authors: Cheng, S.; Zhang, H.; Wang, P.; Zou, K.; Duan, X.; Wang, S.; Yang, Y.; <b>Shi, L.</b>; Wang, W.
+  link:
+    url: https://doi.org/10.1016/j.etap.2021.103675
+    display: Environmental Toxicology and Pharmacology, 2021
+  highlight: 0
+  news2:
+  first_or_cor: 0
  
