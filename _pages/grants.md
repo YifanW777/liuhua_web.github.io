@@ -60,7 +60,7 @@ Status: Active (present-1/2022) <br/></p>
 <p>Supplement: Data Integration Methods for Environmental Exposures with Applications to Air Pollution <br/>
 Funder: NIEHS (R01 supplement) <br/>
 PI: Dr. Howard Chang <br/>
-Status: Pending <br/></p>
+Status: Active (present-1/2022) <br/></p>
 
 <p>Elucidating environmental risk factors for early menopause among women with heightened genetic susceptibility <br/>
 Funder: NAM <br/>
