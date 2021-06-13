@@ -47,11 +47,6 @@ Funder: NASA <br/>
 PI: Dr. Yang Liu <br/>
 Status: Active (present-8/2021) <br/></p>
 
-<p>Multi-Angle Imager for Aerosols (MAIA) instrument <br/>
-Funder: NASA <br/>
-PI: Dr. Yang Liu <br/>
-Status: Active (present-8/2026) <br/></p>
-
 <p>Data Integration Methods for Environmental Exposures with Applications to Air Pollution and Asthma Morbidity <br/>
 Funder: NIEHS (R01) <br/>
 PI: Dr. Howard Chang <br/>
@@ -80,6 +75,12 @@ Status: Pending <br/></p>
 <p>The impact of wildfire smoke exposure on cardiovascular health in the western US <br/>
 Funder: NIH (R01) <br/>
 PI: Dr. Yang Liu <br/> 
+Status: Pending <br/></p>
+  
+  
+<p>Developing Population Exposure Assessments to Non-tailpipe Traffic-Related Emissions Using Earth Observations for Epidemiological Studies <br/>
+Funder: NASA <br/>
+PI: Dr. Pengfei Liu <br/>
 Status: Pending <br/></p>
 
 
