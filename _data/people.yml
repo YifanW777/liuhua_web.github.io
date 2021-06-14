@@ -24,28 +24,54 @@
   education5:
   statement:
 
-- name: "Yuhan Zhang"
-  photo: Yuhan_Zhang.png
-  group_member: 1
-  info: Research Assistant
-  email: yzh2698@emory.edu
-  number_educ: 1
-  education1: 2019-, Epidemiology
-  education2:
-  education3:
-  education4:
-  education5:
-  statement:
-
 - name: "Haomin Li"
   photo: Haomin_Li.png
   group_member: 1
   info: Research Assistant
   email: haomin.li@emory.edu
   number_educ: 1
-  education1: 2019-, Epidemiology
+  education1: 2021-, Epidemiology
   education2: 
   education3: 
+  education4:
+  education5:
+  statement:
+  
+- name: "Yifan Wang"
+  photo: Yifan_Wang.png
+  group_member: 1
+  info: Research Assistant
+  email: ywa2548@emory.edu
+  number_educ: 1
+  education1: 2021-, Environmental Health
+  education2:
+  education3:
+  education4:
+  education5:
+  statement:
+  
+- name: "Haisu Zhang"
+  photo: Haisu_Zhang.png
+  group_member: 1
+  info: Research Assistant
+  email: haisu.zhang@emory.edu
+  number_educ: 1
+  education1: 2021-, Environmental Health
+  education2:
+  education3:
+  education4:
+  education5:
+  statement:
+  
+- name: "Yuhan Zhang"
+  photo: Yuhan_Zhang.png
+  group_member: 1
+  info: Research Assistant
+  email: yzh2698@emory.edu
+  number_educ: 1
+  education1: 2019-2021, Epidemiology
+  education2:
+  education3:
   education4:
   education5:
   statement:
@@ -82,7 +108,7 @@
   info: Master Student
   email: shiwen.huang@emory.edu
   number_educ: 1
-  education1: 2019-, Environmental Health
+  education1: 2019-2021, Environmental Health
   education2: 
   education3: 
   education4:
@@ -95,7 +121,7 @@
   info: Master Student
   email: yaoyao.qian@emory.edu
   number_educ: 1
-  education1: 2019-, Environmental Health
+  education1: 2019-2021, Environmental Health
   education2: 
   education3: 
   education4:
@@ -108,7 +134,7 @@
   info: Master Student
   email: mingrui.wang@emory.edu
   number_educ: 1
-  education1: 2019-, Environmental Health
+  education1: 2019-2021, Environmental Health
   education2: 
   education3: 
   education4:
@@ -121,7 +147,7 @@
   info: Master Student
   email: andrew.cory.rosenberg@emory.edu
   number_educ: 1
-  education1: 2019-, Environmental Health
+  education1: 2019-2021, Environmental Health
   education2: 
   education3: 
   education4:
@@ -147,7 +173,7 @@
   info: Master Student
   email: sabrina.bogovic@emory.edu
   number_educ: 1
-  education1: 2019-, Environmental Health
+  education1: 2019-2021, Environmental Health
   education2: 
   education3: 
   education4:
@@ -160,7 +186,7 @@
   info: Visiting PhD student (Tsinghua University)
   email:  kuo.zhang@emory.edu
   number_educ: 1
-  education1: 2019-, Geography
+  education1: 2019-2021, Geography
   education2: 
   education3: 
   education4:
