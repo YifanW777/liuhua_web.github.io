@@ -76,6 +76,17 @@
   news2:
   first_or_cor: 0
   
+- title: "A Co-Twin control study of fine particulate matter and the prevalence of metabolicsyndrome risk factors"
+  image: dummg.png
+  description: ""
+  authors: Zhang, Y; <b>Shi, L.</b>; Chang, H; Schwartz, J; Di, Q; Goldberg, J, Vaccarino, V 
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0013935121008987
+    display: Environmental Research, 2021
+  highlight: 0
+  news2:
+  first_or_cor: 0
+  
 - title: "Benchmark dose analysis for PAHs hydroxyl metabolites in urine based on mitochondrial damage of peripheral blood leucocytes in coke oven workers in China"
   image: dummg.png
   description: ""
