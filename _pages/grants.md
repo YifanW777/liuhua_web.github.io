@@ -34,6 +34,14 @@ Status: Active (4/2021-3/2023) <br/></p>
 Funder: NIA (R01) <br/>
 Status: Selected for funding (7/2021-6/2026) <br/></p>
 
+<p>PM2.5 components and overall and cause-specific mortality <br/>
+Funder: Dean’s Pilot and Innovation Grants <br/>
+Status: Pending <br/></p>
+  
+<p>Air Pollution and Cardiovascular Diseases <br/>
+Funder: 2021 WHSC Synergy Awards <br/>
+Status: Pending <br/></p>                                                  
+  
 <p><br/></p>
 <b>Co-investigator (Dr. Shi)</b> <br/>
 
@@ -45,7 +53,7 @@ Status: Active (present-1/2024) <br/></p>
 <p>Using Earth Observations to Support Regional and National Environmental Health Surveillance <br/>
 Funder: NASA <br/>
 PI: Dr. Yang Liu <br/>
-Status: Active (present-8/2021) <br/></p>
+Status: Active (present-11/2021) <br/></p>
 
 <p>Data Integration Methods for Environmental Exposures with Applications to Air Pollution and Asthma Morbidity <br/>
 Funder: NIEHS (R01) <br/>
@@ -57,6 +65,11 @@ Funder: NIEHS (R01 supplement) <br/>
 PI: Dr. Howard Chang <br/>
 Status: Active (present-1/2022) <br/></p>
 
+<p>HERCULES: Health and Exposome Research Center at Emory <br/>
+Funder: NIEHS P30 <br/>
+PI: Dr. Carmen Marsit <br/>
+Status: Active (present-3/2022) <br/></p>
+  
 <p>Elucidating environmental risk factors for early menopause among women with heightened genetic susceptibility <br/>
 Funder: NAM <br/>
 PI: Dr. Audrey Gaskins <br/>
@@ -76,7 +89,6 @@ Status: Pending <br/></p>
 Funder: NIH (R01) <br/>
 PI: Dr. Yang Liu <br/> 
 Status: Pending <br/></p>
-  
   
 <p>Developing Population Exposure Assessments to Non-tailpipe Traffic-Related Emissions Using Earth Observations for Epidemiological Studies <br/>
 Funder: NASA <br/>
