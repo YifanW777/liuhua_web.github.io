@@ -87,6 +87,17 @@
   news2:
   first_or_cor: 0
   
+- title: "Health effects of air pollutant mixtures on overall mortality among the elderly population using Bayesian Kernel machine regression (BKMR)"
+  image: dummg.png
+  description: ""
+  authors: Li, H; ; Deng, W; Small, R.; Schwartz, J; Liu, J; <b>Shi, L.</b>
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0045653521020385
+    display: Chemosphere, 2021
+  highlight: 0
+  news2:
+  first_or_cor: 0
+  
 - title: "Benchmark dose analysis for PAHs hydroxyl metabolites in urine based on mitochondrial damage of peripheral blood leucocytes in coke oven workers in China"
   image: dummg.png
   description: ""
