@@ -32,15 +32,7 @@ Status: Active (4/2021-3/2023) <br/></p>
 
 <p>PM2.5 components and Alzheimer’s Disease and Related Dementias: A National Study <br/>
 Funder: NIA (R01) <br/>
-Status: Selected for funding (7/2021-6/2026) <br/></p>
-
-<p>PM2.5 components and overall and cause-specific mortality <br/>
-Funder: Dean’s Pilot and Innovation Grants <br/>
-Status: Pending <br/></p>
-  
-<p>Air Pollution and Cardiovascular Diseases <br/>
-Funder: 2021 WHSC Synergy Awards <br/>
-Status: Pending <br/></p>                                                  
+Status: Selected for funding (7/2021-6/2026) <br/></p>                                                
   
 <p><br/></p>
 <b>Co-investigator (Dr. Shi)</b> <br/>
@@ -69,30 +61,4 @@ Status: Active (present-1/2022) <br/></p>
 Funder: NIEHS P30 <br/>
 PI: Dr. Carmen Marsit <br/>
 Status: Active (present-3/2022) <br/></p>
-  
-<p>Elucidating environmental risk factors for early menopause among women with heightened genetic susceptibility <br/>
-Funder: NAM <br/>
-PI: Dr. Audrey Gaskins <br/>
-Status: Pending<br/></p>
-
-<p>Evaluation of common air pollutant exposure on metabolic health: A multi-centric cross-sectional study <br/>
-Funder: NIH (R01) <br/>
-PI: Dr. Dana Boyd Barr <br/>
-Status: Pending<br/></p>
-
-<p>Heat, Humidity, and mortality:  the role of adaptation and spatial vulnerability <br/>
-Funder: NIH (R01) <br/>
-PI: Dr. Maayan Yitshak Sade <br/>
-Status: Pending <br/></p>
-
-<p>The impact of wildfire smoke exposure on cardiovascular health in the western US <br/>
-Funder: NIH (R01) <br/>
-PI: Dr. Yang Liu <br/> 
-Status: Pending <br/></p>
-  
-<p>Developing Population Exposure Assessments to Non-tailpipe Traffic-Related Emissions Using Earth Observations for Epidemiological Studies <br/>
-Funder: NASA <br/>
-PI: Dr. Pengfei Liu <br/>
-Status: Pending <br/></p>
-
-
+ 
