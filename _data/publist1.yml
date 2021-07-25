@@ -98,6 +98,17 @@
   news2:
   first_or_cor: 0
   
+- title: "Short-term Exposure to Nitrogen Dioxide and Mortality: a systematic review and meta-analysis"
+  image: dummg.png
+  description: ""
+  authors: Wang, M.; Li, H.; Huang, S; Qian, Y.; Steenland, K.; Xie, Y.; Papatheodorou, S.; <b>Shi, L.</b>
+  link:
+    url: 
+    display: Environmental Research, 2021
+  highlight: 0
+  news2:
+  first_or_cor: 0
+  
 - title: "Health effects of air pollutant mixtures on overall mortality among the elderly population using Bayesian Kernel machine regression (BKMR)"
   image: dummg.png
   description: ""
