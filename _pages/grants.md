@@ -25,6 +25,10 @@ Status: Active (5/2020-8/2021) <br/></p>
 <p>Wildfire Smoke Exposure and Incident Stroke Among the Older Adults <br/>
 Funder: Emory Climate and Health Research Incubator (ECHRI) <br/>
 Status: Active (5/2021-8/2022) <br/></p>
+  
+<p>PM2.5 components and overall and cause-specific mortality <br/>
+Funder: Dean's Pilot and Innovation Awards <br/>
+Status: Active (9/2021-8/2022) <br/></p>
 
 <p>Climate Penalty: Climate-driven Increases in Ozone and PM2.5 Levels and Mortality <br/>
 Funder: NIEHS (R21) <br/>
