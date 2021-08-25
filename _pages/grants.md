@@ -66,3 +66,7 @@ Funder: NIEHS P30 <br/>
 PI: Dr. Carmen Marsit <br/>
 Status: Active (present-3/2022) <br/></p>
  
+<p>Assess climate-induced air pollution deterioration and its health risks in the southeastern United States <br/>
+Funder: The energy transition and public health <br/>
+PI: Dr. Pengfei Liu <br/>
+Status: Active (present-8/2022) <br/></p>
